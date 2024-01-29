@@ -155,7 +155,7 @@ class FeedPage extends StatelessWidget {
             const Padding(
               padding: EdgeInsets.all(15.0),
               child: Text(
-                'ケーーキおいしそーーーーー甘いのたくさん食べたいからスイーツバイキング行きたいなああああああああああああああああああああああああああああああああああ',
+                'ケーーキおいしそーーーーー甘いのたくさん食べたいからスイーツバイキング行きたいなあああああああああああああああああああああああああああああああああああああ',
                 style: TextStyle(
                   fontSize: 15,
                 ),
